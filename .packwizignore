@@ -6,8 +6,7 @@ manifest.json
 .git/
 *.zip
 QuestiMakinator*
-Little
-Little Bit Large*
+Little*
 colors.json
 resourcepacks.json
 imgui.ini
@@ -15,3 +14,9 @@ quest_editor.json
 extra.json
 logs.txt
 errors.txt
+Notes.md
+beauty.py
+mani.json
+pretty.json
+settings.json
+client_keywords.json

@@ -83,8 +83,11 @@ checkmark_task_inactive: ftbquests:textures/gui/check_inactive.png
 
 # Welcome
 [0701BDFECC9EA8CD]
-background:                         ftbquests:textures/gui/welcome_background.png; tile_size=640
+background:                         ftbquests:textures/gui/welcome_background.png
 quest_view_background:              ftbquests:textures/gui/blue_background.png; color=#DCFFFFFF; tile_size=650
+background_offset_x:                1
+background_offset_y:                1
+background_repeat:                  0
 
 # Malum
 [670D99477C92AAE8]
@@ -107,7 +110,7 @@ background_offset_y:                1
 background_repeat:                  0
 quest_view_background:              ftbquests:textures/gui/blue_background.png; color=#DCFFFFFF; tile_size=650
 
-# Progressio
+# Progression
 [039F51BB5CCBEEB2]
 background:                         catalyst:textures/quest_images/background/progression.png
 background_offset_x:                1
